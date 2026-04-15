@@ -1,5 +1,3 @@
-from traceback import print_tb
-
 number_of_commands = int(input())
 registered = {}
 for i in range(number_of_commands):
